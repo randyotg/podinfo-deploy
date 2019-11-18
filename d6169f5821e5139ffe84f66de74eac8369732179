@@ -1,0 +1,1 @@
+{"jobID":"ea295937-b358-3997-6596-5a951eddc6c4","spec":{"type":"policy","cause":{"Message":"","User":"Randy Lin \u003crlin@absolute.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
